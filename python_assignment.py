@@ -38,6 +38,8 @@ if __name__ == "__main__":
 
     emp_database = EmployeeDatabase(employees)
 
+    print("Vivek Agarwal")
+    print("E22CSEU0610")
     print("Choose sorting parameter:")
     print("1. Age\n2. Name\n3. Salary")
     choice = int(input())
